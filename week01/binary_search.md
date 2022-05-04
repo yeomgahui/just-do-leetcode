@@ -11,3 +11,7 @@
 
 
 ##### Q1. [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/). : Gahui
+
+#### 2022.05.03
+
+#### Q1. [Search inRotated Sorted Array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) : Gahui - must to revision
