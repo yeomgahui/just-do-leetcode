@@ -19,3 +19,7 @@
 #### 2022.05.04
 
 #### Q1. [Intersection of Two Arrays 2] (https://leetcode.com/problems/intersection-of-two-arrays-ii/) L Gahui
+
+#### 2022.05.05
+
+#### Q1 [Find Target Indices After Sorting Array] https://leetcode.com/problems/find-target-indices-after-sorting-array/
