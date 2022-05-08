@@ -23,3 +23,7 @@
 #### 2022.05.05
 
 #### Q1 [Find Target Indices After Sorting Array] https://leetcode.com/problems/find-target-indices-after-sorting-array/
+
+#### 2022.05.06
+
+#### Q1 [Count Negative Numbers in a Sorted Matrix] https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
