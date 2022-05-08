@@ -27,3 +27,7 @@
 #### 2022.05.06
 
 #### Q1 [Count Negative Numbers in a Sorted Matrix] https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+
+#### 2022.05.07
+
+#### Q1 [Binary Search] https://leetcode.com/problems/binary-search/
