@@ -31,3 +31,7 @@
 #### 2022.05.07
 
 #### Q1 [Binary Search] https://leetcode.com/problems/binary-search/
+
+#### 2022.05.08
+
+#### Q1 [Valid Perfect Square] https://leetcode.com/problems/valid-perfect-square/
